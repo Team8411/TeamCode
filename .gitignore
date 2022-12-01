@@ -1,0 +1,9 @@
+*.class
+*.jar
+*.xml
+TeamCode/build/*
+.gradle/*
+.DS_Store
+*/.DS_Store
+*.bin
+local.properties
